@@ -1,2 +1,0 @@
-[console_scripts]
-ytm = ytmanager.cli:main

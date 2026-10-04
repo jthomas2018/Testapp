@@ -5,3 +5,4 @@ __pycache__/
 # OAuth secrets — never commit these
 client_secret*.json
 token.json
+*.egg-info/
