@@ -1,0 +1,13 @@
+pyproject.toml
+tests/test_api.py
+ytmanager/__init__.py
+ytmanager/__main__.py
+ytmanager/api.py
+ytmanager/auth.py
+ytmanager/cli.py
+ytmanager.egg-info/PKG-INFO
+ytmanager.egg-info/SOURCES.txt
+ytmanager.egg-info/dependency_links.txt
+ytmanager.egg-info/entry_points.txt
+ytmanager.egg-info/requires.txt
+ytmanager.egg-info/top_level.txt
